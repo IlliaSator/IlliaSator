@@ -50,9 +50,17 @@ Multi-agent market trend analysis system powered by LLM
 
 ---
 
+## 📚 Currently Learning
+- Deep Learning with PyTorch (neural networks, CNNs)
+- Statistics & A/B testing for product analytics
+- SQL advanced patterns for Data Analytics roles
+
+---
+
 ## 📍 Location & Availability
 📍 Minsk, Belarus  
 💼 Open to: remote DS/ML/DA positions · Russian companies · Relocation EU
 
 ## 📫 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/@Impereo)
+[![Telegram](https://img.shields.io/badge/Telegram-@Impereo-blue?logo=telegram&logoColor=white)](https://t.me/Impereo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Illia%20Soshchyk-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/illia-soshchyk-0aa02236a)
