@@ -53,10 +53,8 @@ Multi-agent market trend analysis system powered by LLM
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImpereoT&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpereoT&layout=compact&theme=dark&hide_border=true)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlliaSator&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaSator&layout=compact&theme=dark&hide_border=true)
 
 ## 📍 Location & Availability
 📍 Minsk, Belarus
