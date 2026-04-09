@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Stack
+##  Stack
 
 **ML & Data Science**  
 `Python` `scikit-learn` `CatBoost` `XGBoost` `LightGBM` `PyTorch` `pandas` `numpy` `MLflow` `LangChain` `NLTK`
@@ -30,30 +30,33 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🏦 [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
+###  [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
 Credit default prediction service on real banking data · 150k records
 - **Model:** GradientBoosting · ROC-AUC 0.868 · PR-AUC 0.400
 - MLflow experiment tracking · optimal threshold selection by F1 (+60% vs default)
 - FastAPI + web UI + Docker + CI/CD GitHub Actions
 
-### ✈️ [Engine Predictive Maintenance](https://github.com/IlliaSator/engine-predictive-maintenance)
+###  [Engine Predictive Maintenance](https://github.com/IlliaSator/engine-predictive-maintenance)
 Aircraft engine failure prediction based on NASA CMAPSS telemetry
 - **Model:** CatBoost · **ROC-AUC 0.991** · early stopping at iteration 115/1000
 - FastAPI + interactive dashboard + pytest + Docker + CI/CD
 
-### 🤖 [TrendRadar AI](https://github.com/IlliaSator/trend-radar-ai)
+###  [TrendRadar AI](https://github.com/IlliaSator/trend-radar-ai)
 Multi-agent market trend analysis system powered by LLM
 - 5 specialized agents: Router · Researcher · Analyst · Extractor · Editor
 - LangChain + FastAPI + Docker + async pytest + CI/CD
 
 ---
 
-## 📚 Currently Learning
+###  Currently Learning
 - Deep Learning with PyTorch (neural networks, CNNs)
 - Statistics & A/B testing for product analytics
 - SQL advanced patterns for Data Analytics roles
+
+### Local Insight Agent
+🔍 InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
 
 ---
 
