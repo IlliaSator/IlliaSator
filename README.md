@@ -48,15 +48,15 @@ Multi-agent market trend analysis system powered by LLM
 - 5 specialized agents: Router · Researcher · Analyst · Extractor · Editor
 - LangChain + FastAPI + Docker + async pytest + CI/CD
 
+### [Local Insight Agent](https://github.com/IlliaSator/local-insight-agent.git)
+🔍 InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
+
 ---
 
 ###  Currently Learning
 - Deep Learning with PyTorch (neural networks, CNNs)
 - Statistics & A/B testing for product analytics
 - SQL advanced patterns for Data Analytics roles
-
-### Local Insight Agent
-🔍 InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
 
 ---
 
