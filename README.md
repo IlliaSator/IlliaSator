@@ -49,7 +49,10 @@ Multi-agent market trend analysis system powered by LLM
 - LangChain + FastAPI + Docker + async pytest + CI/CD
 
 ### [Local Insight Agent](https://github.com/IlliaSator/local-insight-agent.git)
-🔍 InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
+ InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
+
+### [chest-xray-classifier](https://github.com/IlliaSator/chest-xray-classifier) 
+Chest X-Ray Pneumonia Classifier - Detection of pneumonia in chest X-ray images using ResNet18 transfer learning.
 
 ---
 
