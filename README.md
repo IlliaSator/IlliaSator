@@ -1,4 +1,4 @@
-# Illia Sator — ML / Data Science Engineer
+# Illia Sator — Software Engineer (ML)
 
 > Software Engineering graduate (BSUIR, Minsk) transitioning into ML/DS.  
 > Building production-ready machine learning services with deployment, testing, and CI/CD.  
