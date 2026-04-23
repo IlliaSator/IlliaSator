@@ -24,6 +24,9 @@
 
 ##  Projects
 
+### [Data_Monitor](https://github.com/IlliaSator/data_monitor.git)
+Production-like ML monitoring service for credit scoring: FastAPI, PostgreSQL, Evidently drift reports, prediction logging, alerts, baseline management, model performance tracking, retraining triggers, Docker, CI/CD.
+
 ###  [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
 Credit default prediction service on real banking data · 150k records
 - **Model:** GradientBoosting · ROC-AUC 0.868 · PR-AUC 0.400
