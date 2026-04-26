@@ -57,13 +57,6 @@ Chest X-Ray Pneumonia Classifier - Detection of pneumonia in chest X-ray images 
 
 ---
 
-###  Currently Learning
-- Deep Learning with PyTorch (neural networks, CNNs)
-- Statistics & A/B testing for product analytics
-- SQL advanced patterns for Data Analytics roles
-
----
-
 ## 📍 Location & Availability
 📍 Minsk, Belarus  
 💼 Open to: remote DS/ML/DA positions · Russian companies · Relocation EU
