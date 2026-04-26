@@ -27,6 +27,9 @@
 ### [Data_Monitor](https://github.com/IlliaSator/data_monitor.git)
 Production-like ML monitoring service for credit scoring: FastAPI, PostgreSQL, Evidently drift reports, prediction logging, alerts, baseline management, model performance tracking, retraining triggers, Docker, CI/CD.
 
+### [CV_Industrial](https://github.com/IlliaSator/industrial-safety-vision.git)
+Production-style Computer Vision project for industrial safety monitoring: YOLO detection, PPE compliance checks, worker tracking, danger-zone alerts, FastAPI inference, Docker, training/evaluation pipeline, benchmarking, tests and CI.
+
 ###  [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
 Credit default prediction service on real banking data · 150k records
 - **Model:** GradientBoosting · ROC-AUC 0.868 · PR-AUC 0.400
