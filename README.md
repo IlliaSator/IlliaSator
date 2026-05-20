@@ -42,9 +42,6 @@ Credit default prediction service on real banking data · 150k records
 - MLflow experiment tracking · optimal threshold selection by F1 (+60% vs default)
 - FastAPI + web UI + Docker + CI/CD GitHub Actions
 
-### [N8N Pipeline_Automation](https://github.com/IlliaSator/n8n_automation_model.git)
-Built an end-to-end ML automation project for predicting whether a news article will trend. The project combines a scikit-learn training pipeline with time-based validation, threshold tuning, local model deployment with rollback, Telegram and Google Sheets integrations, Dockerized execution, CI via GitHub Actions, and visual workflow orchestration in n8n.
-
 ###  [TrendRadar AI](https://github.com/IlliaSator/trend-radar-ai)
 Multi-agent market trend analysis system powered by LLM
 - 5 specialized agents: Router · Researcher · Analyst · Extractor · Editor
