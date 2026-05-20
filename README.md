@@ -36,7 +36,6 @@ It classifies contract clauses, detects heuristic risk indicators, retrieves sem
 Built with a real LEDGAR data pipeline, TF-IDF + Logistic Regression baseline, optional transformer training pipeline, evaluation reports, semantic search, Docker, tests and CI.
 The project connects my legal background with practical ML engineering and focuses on reproducibility, honest limitations, and human-in-the-loop document review.
 
-
 ###  [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
 Credit default prediction service on real banking data · 150k records
 - **Model:** GradientBoosting · ROC-AUC 0.868 · PR-AUC 0.400
@@ -45,11 +44,6 @@ Credit default prediction service on real banking data · 150k records
 
 ### [N8N Pipeline_Automation](https://github.com/IlliaSator/n8n_automation_model.git)
 Built an end-to-end ML automation project for predicting whether a news article will trend. The project combines a scikit-learn training pipeline with time-based validation, threshold tuning, local model deployment with rollback, Telegram and Google Sheets integrations, Dockerized execution, CI via GitHub Actions, and visual workflow orchestration in n8n.
-
-###  [Engine Predictive Maintenance](https://github.com/IlliaSator/engine-predictive-maintenance)
-Aircraft engine failure prediction based on NASA CMAPSS telemetry
-- **Model:** CatBoost · **ROC-AUC 0.991** · early stopping at iteration 115/1000
-- FastAPI + interactive dashboard + pytest + Docker + CI/CD
 
 ###  [TrendRadar AI](https://github.com/IlliaSator/trend-radar-ai)
 Multi-agent market trend analysis system powered by LLM
