@@ -24,6 +24,11 @@
 
 ##  Projects
 
+### [E-commerce Support Automation](https://github.com/IlliaSator/E-commerce-Support-Automation.git)
+Production-style Applied AI MVP for automating customer support in a fictional electronics store.  
+The system combines a Telegram bot, FastAPI backend, PostgreSQL, n8n automation workflows, local RAG, intent classification, guardrails, SLA tracking, human-in-the-loop review, and a Streamlit analytics dashboard.
+The project is designed as a realistic internal automation prototype rather than a simple OpenAI wrapper: critical decisions are handled by deterministic rules, database lookups, confidence thresholds, retrieval grounding, and escalation policies. OpenAI support is optional; the MVP runs locally with Docker Compose and mock/local mode.
+
 ### [Data_Monitor](https://github.com/IlliaSator/data_monitor.git)
 Production-like ML monitoring service for credit scoring: FastAPI, PostgreSQL, Evidently drift reports, prediction logging, alerts, baseline management, model performance tracking, retraining triggers, Docker, CI/CD.
 
