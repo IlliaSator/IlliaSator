@@ -32,15 +32,6 @@ The project is designed as a realistic internal automation prototype rather than
 ### [Data_Monitor](https://github.com/IlliaSator/data_monitor.git)
 Production-like ML monitoring service for credit scoring: FastAPI, PostgreSQL, Evidently drift reports, prediction logging, alerts, baseline management, model performance tracking, retraining triggers, Docker, CI/CD.
 
-### [CV_Industrial](https://github.com/IlliaSator/industrial-safety-vision.git)
-Production-style Computer Vision project for industrial safety monitoring: YOLO detection, PPE compliance checks, worker tracking, danger-zone alerts, FastAPI inference, Docker, training/evaluation pipeline, benchmarking, tests and CI.
-
-### [Contract Risk Analyzer](https://github.com/IlliaSator/contract-risk-analyzer.git)
-Production-style NLP system for contract document analysis.  
-It classifies contract clauses, detects heuristic risk indicators, retrieves semantically similar clauses, and generates structured risk reports through a FastAPI service.
-Built with a real LEDGAR data pipeline, TF-IDF + Logistic Regression baseline, optional transformer training pipeline, evaluation reports, semantic search, Docker, tests and CI.
-The project connects my legal background with practical ML engineering and focuses on reproducibility, honest limitations, and human-in-the-loop document review.
-
 ###  [Credit Scoring API](https://github.com/IlliaSator/credit-scoring)
 Credit default prediction service on real banking data · 150k records
 - **Model:** GradientBoosting · ROC-AUC 0.868 · PR-AUC 0.400
@@ -54,9 +45,6 @@ Multi-agent market trend analysis system powered by LLM
 
 ### [Local Insight Agent](https://github.com/IlliaSator/local-insight-agent.git)
  InsightData Analyst — a local RAG-powered SQL agent that translates natural language into SQL queries. Built with LangGraph, Ollama, and Qdrant: the agent retrieves real table schemas from a vector store, generates accurate SQL, and self-corrects on errors — all without sending data to the cloud.
-
-### [chest-xray-classifier](https://github.com/IlliaSator/chest-xray-classifier) 
-Chest X-Ray Pneumonia Classifier - Detection of pneumonia in chest X-ray images using ResNet18 transfer learning.
 
 ---
 
